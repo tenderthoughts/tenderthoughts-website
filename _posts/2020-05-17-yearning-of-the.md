@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Yearning of the ❤️
 date: 2020-05-17 17:30:00 +0000
 categories: ''
